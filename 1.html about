@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<head>
+<title>
+<h3>Since 2017</b3>
+<h6>Princeton Academy</h6>
+</title>
+<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+<header>
+<h2>Princeton Adademy</h2>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href=" about.html">About</a>
+<a href=" program.html">Program</a>
+<a href=" news.html"> News</a>
+<a href=" contact.html">Contact</a>
+</nav>
+<main>
+<img src="imgA.jpeg" width=100%>
+  <p><strong><u><h1>About</h1></u></strong>
+  Established in 2007, Princeton Academy has helped numerous students achieve their goals of higher education at respectable institutions. We know that there’s no limit to your student’s potential, and we’re here to help you realize it. We believe that a student’s academic success comes from great teaching, excellent curriculum, and a thorough individual care, all of which we provide, if only the student is willing to work together.  We commit to working closely with each student and parent to provide the optimal learning experience so that the students may actualize their potentials and witness their acceptance into schools of their choice.  Our goal are your goals.
+
+
+  <li>3. GPA</Li>
+</ol>
